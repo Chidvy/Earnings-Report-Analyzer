@@ -1,36 +1,10 @@
-\# Earnings Report Analyzer
+An LLM-driven financial document intelligence system that automates 
+earnings report analysis — extracting structured metrics, generating 
+analyst-grade narratives, and enabling interactive document exploration 
+via multi-turn Q&A.
 
-
-
-A command-line tool that uses \*\*Claude (Anthropic)\*\* to extract structured financial metrics and generate analyst-style narratives from earnings report PDFs — with an interactive Q\&A interface.
-
-
-
-Built as a practical exploration of LLM-powered document analysis applied to financial data.
-
-
-
-\---
-
-
-
-\## What It Does
-
-
-
-Given any earnings report or earnings call transcript (PDF or raw text), the tool:
-
-
-
-1\. \*\*Extracts structured metrics\*\* — revenue, EPS, YoY changes, beats/misses vs estimates, guidance, key themes, risks
-
-2\. \*\*Writes an analyst narrative\*\* — 3-paragraph sell-side style summary with specific figures
-
-3\. \*\*Opens interactive Q\&A\*\* — ask natural language questions about the document, with multi-turn conversation memory
-
-
-
-All powered by Claude's `claude-haiku-4-5` model via the Anthropic API.
+Built to reduce manual earnings review time and accelerate insight 
+generation for financial analysis workflows.
 
 
 
