@@ -1,5 +1,5 @@
 An LLM-driven financial document intelligence system that automates 
-earnings report analysis — extracting structured metrics, generating 
+earnings report analysis extracting structured metrics, generating 
 analyst-grade narratives, and enabling interactive document exploration 
 via multi-turn Q&A.
 
@@ -8,15 +8,12 @@ generation for financial analysis workflows.
 
 
 
-\---
-
 
 
 \## Demo
 
 
 
-```
 
 $ python earnings\_analyzer.py apple\_q4\_2024.pdf
 
