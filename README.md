@@ -315,7 +315,11 @@ python earnings\_analyzer.py --text "Revenue was $5.2B, up 12% YoY..."
 
 
   Large Language Model API (Claude / OpenAI compatible)
+
+  
 \- Python 3.9+
+
+
 \- \[Anthropic Python SDK](https://github.com/anthropic/anthropic-sdk-python)
 
 
