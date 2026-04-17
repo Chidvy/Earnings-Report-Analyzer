@@ -139,7 +139,7 @@ Apple Music, iCloud, and AppleCare. Management cited 1B+ paid subscriptions glob
 
 \# Clone the repo
 
-git clone https://github.com/Chidvy/earnings-analyzer.git
+git clone https://github.com/Chidvy/earnings-report-analyzer.git
 
 cd earnings-analyzer
 
